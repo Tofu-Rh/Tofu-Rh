@@ -3,7 +3,7 @@
 Engenheiro Eletricista formado pela **UNESP Ilha Solteira** e apaixonado por resolver problemas complexos através do código. Meu foco está na interseção entre **Otimização de Sistemas de Potência**, **Ciência de Dados** e desenvolvimento de ferramentas web de alta performance.
 
 ### 🚀 O que eu faço
-* **Power Systems:** Pesquisa e desenvolvimento em Fluxo de Potência Reativo (ORPF) e algoritmos de otimização (Algoritmos Genéticos).
+* **Power Systems:** Pesquisa e desenvolvimento em Fluxo de Potência Reativo (ORPF) e algoritmos de otimização (Algoritmos Genéticos Multiobjetivos).
 * **Web Development:** Criação de Web Apps técnicos utilizando o ecossistema **Julia (Genie.jl, Stipple)**.
 * **Simulação & Modelagem:** Experiência com MATPOWER, modelagem de elasticidade de materiais e processamento de dados técnicos.
 
