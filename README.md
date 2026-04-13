@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome]! 👋
+# Olá! 👋
 
 Engenheiro Eletricista formado pela **UNESP Ilha Solteira** e apaixonado por resolver problemas complexos através do código. Meu foco está na interseção entre **Otimização de Sistemas de Potência**, **Ciência de Dados** e desenvolvimento de ferramentas web de alta performance.
 
