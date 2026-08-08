@@ -1,30 +1,15 @@
-# Olá! 👋
+#  About Me:
+Embedded Systems Developer. <br>Looking to collaborate with Path Planning / Sensor Fusion / Control algorithms for autonomous Vehicles!
 
-Engenheiro Eletricista formado pela **UNESP Ilha Solteira** e apaixonado por resolver problemas complexos através do código. Meu foco está na interseção entre **Otimização de Sistemas de Potência**, **Ciência de Dados** e desenvolvimento de ferramentas web de alta performance.
 
-### 🚀 O que eu faço
-* **Power Systems:** Pesquisa e desenvolvimento em Fluxo de Potência Reativo (ORPF) e algoritmos de otimização (Algoritmos Genéticos Multiobjetivos).
-* **Web Development:** Criação de Web Apps técnicos utilizando o ecossistema **Julia (Genie.jl, Stipple)**.
-* **Simulação & Modelagem:** Experiência com MATPOWER, modelagem de elasticidade de materiais e processamento de dados técnicos.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rhomulo-thiago-gouveia-a65ba6122/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rhomulothiago@gmail.com) 
 
-### 🛠 Tech Stack
-![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-e16711?style=flat-square&logo=mathworks&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![VBA](https://img.shields.io/badge/-VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
 
-### 📊 Projetos em Destaque
-* **Elastic Force Model:** Web App em Julia/Genie para análise preditiva de materiais.
-* **Genetic Algorithm for IEEE Bus Systems:** Implementação de operadores avançados (como Crossover SBX) para otimização de redes elétricas (30 e 118 barras).
 
-### 🎓 Formação & Pesquisa
-* **Engenharia Elétrica** - UNESP (Campus de Ilha Solteira).
-* Membro do **LaPSEE** (Laboratório de Planejamento de Sistemas de Energia Elétrica).
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 📫 Vamos conversar?
-* [LinkedIn](SEU_LINK_AQUI)
-* [Email](SEU_EMAIL_AQUI)
-
----
-*"Transformando equações complexas em código eficiente."*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
