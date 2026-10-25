@@ -1,5 +1,5 @@
 #  About Me:
-Embedded Systems Developer. <br>Looking to collaborate with Path Planning / Sensor Fusion / Control algorithms for autonomous Vehicles!
+Embedded Software Engineer. <br>Looking to collaborate with Path Planning / Sensor Fusion / Control algorithms for autonomous Vehicles!
 
 
 ## 🌐 Socials:
